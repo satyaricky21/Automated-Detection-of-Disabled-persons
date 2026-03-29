@@ -1,0 +1,14 @@
+path: D:/robotrix/disabled detection
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names:
+  0: bicycle
+  1: person_cane
+  2: person_crutches
+  3: person_walking_frame
+  4: person_wheelchair
+  5: stroller
