@@ -1,0 +1,7 @@
+ultralytics==8.0.227
+torch
+torchvision
+torchaudio
+opencv-python
+numpy==1.26.4
+pillow
